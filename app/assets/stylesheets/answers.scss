@@ -1,0 +1,19 @@
+body {
+  padding: 16px;
+}
+
+$gray: rgb(210, 210, 210);
+$yellow: #FFFFE1;
+
+div {
+  border-left: 6px solid $gray;
+}
+
+#answer {
+  background-color: $yellow;
+  padding: 16px;
+}
+
+#question {
+  padding: 16px;
+}
